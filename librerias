@@ -1,4 +1,8 @@
 -m pip install pillow  
-./python.exe -m pip install pillow pytesseract
+#./python.exe -m pip install pillow pytesseract
+pip install easyocr
 
+
+ruta: 
+C:\Program Files\Tesseract-OCR
 

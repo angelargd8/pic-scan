@@ -1,0 +1,4 @@
+-m pip install pillow  
+./python.exe -m pip install pillow pytesseract
+
+
